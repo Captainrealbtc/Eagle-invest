@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN bonus_awarded TINYINT(1) DEFAULT 0;
